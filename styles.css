@@ -1,0 +1,70 @@
+.jumbotron {
+    height: 500px;
+    background: url(https://images.unsplash.com/photo-1504221507732-5246c045949b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80) no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    margin: 0;
+
+}
+.firstSection {
+    padding: 100px;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background: url(images/dustin-humes-VzzMh8r-Vi8-unsplash.jpg);
+    background-repeat: no-repeat;
+}
+.sectionOneImage {
+    display: inline-block;
+    height:1000px;
+    max-width: 500px;
+    float: right;
+}
+carousel {
+    max-height: 100px;
+}
+/* .row {
+    padding: 100px;
+    background: url(images/dustin-humes-VzzMh8r-Vi8-unsplash.jpg) 1%;
+    color: white;
+    width: auto;
+} */
+.row2 {
+    padding: 100px;
+    background: url(images/gradienta-LeG68PrXA6Y-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+}
+.sectionTwoImage {
+    display: inline-block;
+    max-width: 500px;
+}
+.row3 {
+    padding: 100px;
+    background: url(images/gradienta-NUzd3M4XouA-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.sectionThreeImage {
+    display: inline-block;
+    height: 500px;
+    float: right;
+}
+.column {
+    float: left;
+    padding: 10px;
+}
+  
+  .left {
+    width: 25%;
+}
+  
+  .right {
+    width: 75%;
+}
+ 
